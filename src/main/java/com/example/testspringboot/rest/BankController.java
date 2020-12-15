@@ -10,6 +10,6 @@ public class BankController {
 
   @RequestMapping("/branch")
   public String getMainBranchName() {
-    return "HDFC" ;
+    return "ICIC" ;
   }
 }
